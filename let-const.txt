@@ -1,0 +1,14 @@
+Refactoring old code:
+ 
+const PI = 3.14;
+PI = 4.56; 
+
+Quiz
+What is the difference between var and let?
+- Var can be redeclared while let cannot, and let is block scoped while var is function scoped.
+What is the difference between var and const?
+- Const can neither be redeclared nor reassigned while Var can be both. Const is also block scoped.
+What is the difference between let and const?
+- Let can be reassigned and const cannot.
+What is hoisting?
+- When using Var, the variables are declared before the code is run.
